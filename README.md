@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Theodore Preaus I am a Computer Science major at Rollins College, graduating in May 2025. As a member of the Accelerated Business Program I plan on acquiring an MBA in May of 2026.
+
+📫 How to reach me: Preaus6@gmail.com
+<br> ⚡ Fun fact: I am a part of the Rollins Mens Crew Team
+
 <!--
 **Tpreaus/Tpreaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
